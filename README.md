@@ -2,6 +2,8 @@
 >  몬스터헌터, 소울 시리즈 느낌의 액션 RPG 게임
 
 ---
+![Image](https://github.com/user-attachments/assets/1f9ac5a3-2c8c-4c16-b260-2e34425fe634)
+
 ## 게임 소개
 
 - *게임 장르*  : 3인칭 판타지 ARPG
